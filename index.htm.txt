@@ -1,7 +1,8 @@
 <html>
-<head>
+   <head>
 	<title>Mi primer html</title>
-</head>
+   </head>
 <body>
+
 </body>
 </html>
